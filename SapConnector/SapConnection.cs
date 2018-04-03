@@ -80,8 +80,8 @@ namespace SapConnector
                     testfn.Invoke(oRFC);
 
                     var companyCodeList = testfn.GetTable("COMPANYCODE_LIST");
-
-
+                    
+                    /*
                     // turn it into a DataTable..
                     var companyDataTable = companyCodeList.ToDataTable("companycodelist");
 
@@ -97,6 +97,7 @@ namespace SapConnector
                     // que sejam humanamente legivel
                     IRfcTable tabela = funcaoRT.GetTable("DATA");
                     var retornoConsulta = tabela.ToDataTable("T001");
+                    */
                     return "ok";
                 }
 

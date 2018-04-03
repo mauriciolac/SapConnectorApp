@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27428.2011
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SapConnector", "SapConnector\SapConnector.csproj", "{D10FF0FD-9781-4EE5-BAA3-96411F156892}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SapConnector", "SapConnector\SapConnector.csproj", "{D10FF0FD-9781-4EE5-BAA3-96411F156892}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SapConnectorWindowsApp", "..\SapConnectorWindowsApp\SapConnectorWindowsApp.csproj", "{53D7FEAB-B0BD-4D15-AC83-4E283142B14F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SapConnectorWinApp", "SapConnectorWinApp\SapConnectorWinApp.csproj", "{9B318A80-4C32-4E62-ABBB-A6B19C4BFD71}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{D10FF0FD-9781-4EE5-BAA3-96411F156892}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D10FF0FD-9781-4EE5-BAA3-96411F156892}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D10FF0FD-9781-4EE5-BAA3-96411F156892}.Release|Any CPU.Build.0 = Release|Any CPU
-		{53D7FEAB-B0BD-4D15-AC83-4E283142B14F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{53D7FEAB-B0BD-4D15-AC83-4E283142B14F}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{53D7FEAB-B0BD-4D15-AC83-4E283142B14F}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{53D7FEAB-B0BD-4D15-AC83-4E283142B14F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B318A80-4C32-4E62-ABBB-A6B19C4BFD71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B318A80-4C32-4E62-ABBB-A6B19C4BFD71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B318A80-4C32-4E62-ABBB-A6B19C4BFD71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B318A80-4C32-4E62-ABBB-A6B19C4BFD71}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
