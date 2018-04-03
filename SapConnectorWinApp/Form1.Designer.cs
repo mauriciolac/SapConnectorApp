@@ -35,8 +35,9 @@
             // txtAux
             // 
             this.txtAux.Location = new System.Drawing.Point(103, 40);
+            this.txtAux.Multiline = true;
             this.txtAux.Name = "txtAux";
-            this.txtAux.Size = new System.Drawing.Size(633, 20);
+            this.txtAux.Size = new System.Drawing.Size(633, 249);
             this.txtAux.TabIndex = 0;
             // 
             // button1
@@ -53,7 +54,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(765, 125);
+            this.ClientSize = new System.Drawing.Size(765, 301);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.txtAux);
             this.Name = "Form1";
