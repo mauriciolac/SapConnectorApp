@@ -16,6 +16,7 @@ namespace SapConnectorWinApp
         public Form1()
         {
             InitializeComponent();
+            txtAux.Text = string.Empty;
         }
 
      

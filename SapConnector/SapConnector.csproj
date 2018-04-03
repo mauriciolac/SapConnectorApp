@@ -6,13 +6,16 @@
 
   <ItemGroup>
     <Reference Include="rscp4n">
-      <HintPath>..\..\..\..\Downloads\dot net sap 32\rscp4n.dll</HintPath>
+      <HintPath>X:\dot net sap 32\rscp4n.dll</HintPath>
+      <Private>true</Private>
     </Reference>
     <Reference Include="sapnco">
-      <HintPath>..\..\..\..\Downloads\dot net sap 32\sapnco.dll</HintPath>
+      <HintPath>X:\dot net sap 32\sapnco.dll</HintPath>
+      <Private>true</Private>
     </Reference>
     <Reference Include="sapnco_utils">
-      <HintPath>..\..\..\..\Downloads\dot net sap 32\sapnco_utils.dll</HintPath>
+      <HintPath>X:\dot net sap 32\sapnco_utils.dll</HintPath>
+      <Private>true</Private>
     </Reference>
   </ItemGroup>
 
