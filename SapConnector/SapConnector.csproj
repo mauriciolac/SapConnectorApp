@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="rscp4n">
+      <HintPath>..\..\..\..\Downloads\dot net sap 32\rscp4n.dll</HintPath>
+    </Reference>
+    <Reference Include="sapnco">
+      <HintPath>..\..\..\..\Downloads\dot net sap 32\sapnco.dll</HintPath>
+    </Reference>
+    <Reference Include="sapnco_utils">
+      <HintPath>..\..\..\..\Downloads\dot net sap 32\sapnco_utils.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
